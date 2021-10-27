@@ -1,0 +1,16 @@
+{
+    "batch_size": 26,
+    "channels": 40,
+    "compared_length": 10,
+    "depth": 10,
+    "nb_steps": 1000,
+    "in_channels": 1,
+    "kernel_size": 3,
+    "penalty": null,
+    "early_stopping": 5,
+    "lr": 0.00001,
+    "nb_random_samples": 5,
+    "negative_penalty": 1,
+    "out_channels": 320,
+    "reduced_size": 160
+}
