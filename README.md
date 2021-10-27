@@ -8,4 +8,6 @@ The architecture of the causal encoder that optimizes for representation learnin
 <img width="360" alt="architecture" src="https://user-images.githubusercontent.com/93252225/139062610-d775f70f-4a8c-437a-ae51-12ee3f72a846.png">
 
 Evaluation was conduced on UCR, UEA and storage-specific sensor metrics data. Results are better or comparable to state-of-the-art models. More details can be found here:
+[clustering-ts.pdf](https://github.com/amarogayo/xai-clustering-ts/files/7425986/clustering-ts.pdf)
+and
 [explaining-anomaly-clusters.pptx](https://github.com/amarogayo/xai-clustering-ts/files/7425959/explaining-anomaly-clusters.pptx)
